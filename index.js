@@ -18,7 +18,7 @@ const instagram = 'https://instagram.com/M.Alfrzyy_';
 const telegram = 'https://t.me/Zii'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'https://www.youtube.com/c/reuz_id';
-//const grupch1 = 'belum ada grup'; 
+//const grupch1 =' https://chat.whatsapp.com/Jpe9YIuEoiOILfJTWT1fpA'; 
 //const grupch2 = 'belum ada grup' ; 
 const
 {
